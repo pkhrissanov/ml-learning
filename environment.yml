@@ -1,0 +1,12 @@
+name: ml-learning
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - jupyterlab
+  - scikit-learn
+  - matplotlib
+  - numpy
+  - pandas
+prefix: /mnt/stabby2/miniconda3/envs/ml-learning
